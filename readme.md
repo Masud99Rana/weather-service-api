@@ -60,7 +60,7 @@ Goal:
 - [x] Build a practical, real-world RESTful APIs to communicate with the real world with Laravel.
 - [x] Create a user administration RESTful API to authenticate and authorize users, 
 - [x] Create a API with ease which can be used as a RESTful backend for frontend application.
-- [x] Practice Laravel's **cusom console command & sheduler feature**.
+- [x] Practice Laravel's **custom artisan/console command & sheduler features**.
 
 <p align="center"><img src="MyNote/api weather all .png"></p>
 
