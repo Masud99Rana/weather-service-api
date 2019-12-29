@@ -38,8 +38,7 @@ class QueryController extends Controller
         if(!($city = City::where('name', $city)->first()))
             throw new NotFoundHttpException('Unknown city!');
 
-     
-
+    
         try {
             // $date = Carbon::createFromFormat('YYYY-MM-DD', $date);
          	$date = Carbon::parse($date, 'Asia/Dhaka');

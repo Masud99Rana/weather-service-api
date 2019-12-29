@@ -25,8 +25,18 @@ Route::group(['prefix' => 'v1'], function(){
 	Route::get('/ping', 'ServerController@ping');
 	Route::get('/version', 'ServerController@version');
 
+	// Auth Routes
+	Route::group(['prefix' => 'auth'], function(){
+		Route::post('login', 'AuthController@login');
+		Route::get('logout', 'AuthController@logout');
+		Route::patch('refresh', 'AuthController@refreshToken');
+		Route::post('register', 'AuthController@register');
+		Route::get('me', 'AuthController@me');
+	});
+
+
 	// Weather API
-	Route::group(['prefix' => 'weather'], function(){
+	Route::group(['prefix' => 'weather',"middleware"=>'auth:api'], function(){
 		Route::get('/cities', 'QueryController@index');
 		Route::get('/{city}', 'QueryController@current');
 		Route::get('/{city}/{date}', 'QueryController@date')
