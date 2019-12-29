@@ -20,6 +20,12 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::group(['prefix' => 'v1'], function(){
 	Route::get('/', 'ServerController@index');
+
+	// System Status
 	Route::get('/ping', 'ServerController@ping');
 	Route::get('/version', 'ServerController@version');
+
+	// Weather API
+
+
 });

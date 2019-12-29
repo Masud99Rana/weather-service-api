@@ -11,6 +11,8 @@ class ServerController extends Controller
     	return response()->json([
 	    	'success' => true,
 	    	'message' => "Welcome to my ". config('app.name') ." API",
+            'Project Name' => config('app.name'),
+            'Project Details' => 'This is one of my practices API project',
 	    	'Developer' => 'Masud Rana',
 	    	'Contact' => 'masud.letscode@gmail.com'
     	]);
