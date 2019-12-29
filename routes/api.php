@@ -26,6 +26,14 @@ Route::group(['prefix' => 'v1'], function(){
 	Route::get('/version', 'ServerController@version');
 
 	// Weather API
+	Route::group(['prefix' => 'weather'], function(){
+		Route::get('/cities', 'QueryController@index');
+		Route::get('/{city}', 'QueryController@current');
+		Route::get('/{city}/{date}', 'QueryController@date')
+                // http://html5pattern.com/Dates
+                // Format: YYYY-MM-DD
+                ->where('date', '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])');
 
+	});
 
 });
