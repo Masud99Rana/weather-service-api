@@ -120,12 +120,12 @@ If you face any problem to installation this project feel free to inform me.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-> **Note: I will update section soon.**
+> **Note: I will update this section soon.**
 
 <!-- ROADMAP -->
 ## Roadmap
 
-> **Note: I will update section soon.**
+> **Note: I will update this section soon.**
 
 
 <!-- CONTRIBUTING -->
@@ -167,22 +167,22 @@ Project Link: [https://github.com/Masud99Rana/weather-service-api.git](https://g
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-> **Note: I will update section soon.**
+> **Note: I will update this section soon.**
 
 
 ## Heartiest Thanks
-> **Note: I will update section soon.**
+> **Note: I will update this section soon.**
 
 #### Academic Instructors
-> **Note: I will update section soon.**
+> **Note: I will update this section soon.**
 
 #### Online Instuctors
 
-> **Note: I will update section soon.**
+> **Note: I will update this section soon.**
 
 #### Project Instuctor
 
-> **Note: I will update section soon.**
+> **Note: I will update this section soon.**
 
 
 #### You
