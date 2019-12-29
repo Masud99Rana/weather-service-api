@@ -81,7 +81,7 @@ Here are:
 
 * Fetch weather status by City.
 * Fetch weather status by Date.
-* Advance Authentication by JWT
+* Advance Authentication by JWT.
 
 **And many more. Explore them by following "[Getting Started](#getting-started)" section.**
 
@@ -100,11 +100,11 @@ Basic understanding of the technologies that i have mentioned in "[Built With](#
 
 1. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/Masud99Rana/weather-service-api.git
 ```
 2. Copy **.env.example** to **.env** and fill in your database credentials
 3. Get a free API Key at [Open Weather Map](https://openweathermap.org/).
-4. Enter your API in `.env`
+4. Enter your API in `.env` file
 ```js
 OPENWEATHERMAP_APIKEY="API Key"
 ```
@@ -160,7 +160,7 @@ Md. Masud Rana
 [![My LinkedIn Profile][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Masud99Rana/weather-service-api.git](https://github.com/Masud99Rana/weather-service-api.git)
 
 
 <!-- ACKNOWLEDGEMENTS -->
