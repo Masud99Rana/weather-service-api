@@ -60,6 +60,7 @@ Goal:
 - [x] Build a practical, real-world RESTful APIs to communicate with the real world with Laravel.
 - [x] Create a user administration RESTful API to authenticate and authorize users, 
 - [x] Create a API with ease which can be used as a RESTful backend for frontend application.
+- [x] Practice Laravel's **cusom console comman & sheduler feature**.
 
 <p align="center"><img src="MyNote/api weather all .png"></p>
 
@@ -82,6 +83,7 @@ Here are:
 * Fetch weather status by City.
 * Fetch weather status by Date.
 * Advance Authentication by JWT.
+* Weather status auto fetch hourly by Laravel's **Schedular Feature**.
 
 **And many more. Explore them by following "[Getting Started](#getting-started)" section.**
 
