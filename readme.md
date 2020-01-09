@@ -48,8 +48,8 @@
 * [Acknowledgements](#acknowledgements)
 * [Heartiest Thanks](#heartiest-thanks)
   * [Academic Instructors](#academic-instructors)
-  * [Online Instuctors](#online-instuctors)
-  * [Project Instuctor](#project-instuctor)
+  * [Online Instuctors](#online-instructors)
+  * [Project Instuctor](#project-instructor)
 
 
 ## About The Project
@@ -66,7 +66,7 @@ Goal:
 
 Of course, I have achieved most of the goals in this project. Let's Cheers. :smile:
 
-Here, the project is stored for future reference. It may also help who want to build or need a Weather Service RESTful API.
+Here, the project is stored for future reference. It may also help who wants to build or needs a Weather Service RESTful API.
 
 
 
@@ -115,7 +115,7 @@ OPENWEATHERMAP_APIKEY="API Key"
 7. Run **php artisan migrate --seed**
 
 That's good. Now, you are ready to go. </br>
-If you face any problem to installation this project feel free to inform me.
+If you face any problem to installation this project feel free to [inform me](#contact)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
