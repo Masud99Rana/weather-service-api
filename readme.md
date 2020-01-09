@@ -176,11 +176,11 @@ Project Link: [https://github.com/Masud99Rana/weather-service-api.git](https://g
 #### Academic Instructors
 > **Note: I will update this section soon.**
 
-#### Online Instuctors
+#### Online Instructors
 
 > **Note: I will update this section soon.**
 
-#### Project Instuctor
+#### Project Instructor
 
 > **Note: I will update this section soon.**
 
