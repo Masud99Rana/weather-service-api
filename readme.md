@@ -48,8 +48,8 @@
 * [Acknowledgements](#acknowledgements)
 * [Heartiest Thanks](#heartiest-thanks)
   * [Academic Instructors](#academic-instructors)
-  * [Online Instuctors](#online-instructors)
-  * [Project Instuctor](#project-instructor)
+  * [Online Instructors](#online-instructors)
+  * [Project Instructor](#project-instructor)
 
 
 ## About The Project
